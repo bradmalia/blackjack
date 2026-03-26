@@ -1,6 +1,8 @@
 # Blackjack
 
 A command-line implementation of the classic Blackjack game, written in Python.
+<img width="810" height="574" alt="image" src="https://github.com/user-attachments/assets/c5bbf5b1-1e99-4ce1-bc38-0eec3e765fde" />
+
 
 ## Features
 - Interactive console GUI.
